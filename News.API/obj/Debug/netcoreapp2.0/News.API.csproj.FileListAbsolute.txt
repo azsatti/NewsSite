@@ -1,0 +1,16 @@
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\bin\Debug\netcoreapp2.0\News.API.xml
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\bin\Debug\netcoreapp2.0\News.API.deps.json
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\bin\Debug\netcoreapp2.0\News.API.runtimeconfig.json
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\bin\Debug\netcoreapp2.0\News.API.runtimeconfig.dev.json
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\bin\Debug\netcoreapp2.0\News.API.dll
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\bin\Debug\netcoreapp2.0\News.API.pdb
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\bin\Debug\netcoreapp2.0\News.DataAccess.dll
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\bin\Debug\netcoreapp2.0\News.Entity.dll
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\bin\Debug\netcoreapp2.0\News.DataAccess.pdb
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\bin\Debug\netcoreapp2.0\News.Entity.pdb
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\obj\Debug\netcoreapp2.0\News.API.csprojResolveAssemblyReference.cache
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\obj\Debug\netcoreapp2.0\News.API.csproj.CoreCompileInputs.cache
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\obj\Debug\netcoreapp2.0\News.API.AssemblyInfoInputs.cache
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\obj\Debug\netcoreapp2.0\News.API.AssemblyInfo.cs
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\obj\Debug\netcoreapp2.0\News.API.dll
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.API\obj\Debug\netcoreapp2.0\News.API.pdb

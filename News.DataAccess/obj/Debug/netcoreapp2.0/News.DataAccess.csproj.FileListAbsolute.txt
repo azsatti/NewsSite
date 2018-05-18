@@ -1,0 +1,13 @@
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.DataAccess\bin\Debug\netcoreapp2.0\News.DataAccess.deps.json
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.DataAccess\bin\Debug\netcoreapp2.0\News.DataAccess.dll
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.DataAccess\bin\Debug\netcoreapp2.0\News.DataAccess.pdb
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.DataAccess\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.DataAccess\bin\Debug\netcoreapp2.0\News.Entity.dll
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.DataAccess\bin\Debug\netcoreapp2.0\News.Entity.pdb
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.DataAccess\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.DataAccess\obj\Debug\netcoreapp2.0\News.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.DataAccess\obj\Debug\netcoreapp2.0\News.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.DataAccess\obj\Debug\netcoreapp2.0\News.DataAccess.AssemblyInfoInputs.cache
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.DataAccess\obj\Debug\netcoreapp2.0\News.DataAccess.AssemblyInfo.cs
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.DataAccess\obj\Debug\netcoreapp2.0\News.DataAccess.dll
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.DataAccess\obj\Debug\netcoreapp2.0\News.DataAccess.pdb
