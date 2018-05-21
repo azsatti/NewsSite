@@ -1,7 +1,6 @@
 C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Entity\bin\Debug\netcoreapp2.0\News.Entity.deps.json
 C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Entity\bin\Debug\netcoreapp2.0\News.Entity.dll
 C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Entity\bin\Debug\netcoreapp2.0\News.Entity.pdb
-C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Entity\obj\Debug\netcoreapp2.0\News.Entity.csprojResolveAssemblyReference.cache
 C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Entity\obj\Debug\netcoreapp2.0\News.Entity.csproj.CoreCompileInputs.cache
 C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Entity\obj\Debug\netcoreapp2.0\News.Entity.AssemblyInfoInputs.cache
 C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Entity\obj\Debug\netcoreapp2.0\News.Entity.AssemblyInfo.cs

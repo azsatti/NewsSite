@@ -35,6 +35,6 @@ namespace News.Entity
         /// This is author Id and its mandatory.
         /// </summary>
         [Required]
-        public long AuthorId { get; set; }
+        public string AuthorName { get; set; }
     }
 }

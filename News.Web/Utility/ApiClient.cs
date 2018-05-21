@@ -26,5 +26,20 @@ namespace News.Web.Utility
         {
             return await _client.GetAsync(url);
         }
+
+        public async Task<HttpResponseMessage> PostAsync(string url, HttpContent content)
+        {
+            return await _client.PostAsync(url, content);
+        }
+
+        public async Task<HttpResponseMessage> PutAsync(string url, HttpContent content)
+        {
+            return await _client.PutAsync(url, content);
+        }
+
+        public async Task<HttpResponseMessage> DeleteAsync(string url)
+        {
+            return await _client.DeleteAsync(url);
+        }
     }
 }

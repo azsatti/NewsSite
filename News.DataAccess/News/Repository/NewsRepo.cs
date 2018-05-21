@@ -23,7 +23,7 @@ namespace News.DataAccess.News.Repository
                     Title = "News1",
                     Body = "News1-Body",
                     DatePublished = DateTime.UtcNow,
-                    AuthorId = 1
+                    AuthorName = "Author"
                 });
 
                 _context.SaveChanges();
@@ -63,7 +63,7 @@ namespace News.DataAccess.News.Repository
             existingNewsArticle.Title = newsArticle.Title;
             existingNewsArticle.Body = newsArticle.Body;
             existingNewsArticle.DatePublished = newsArticle.DatePublished;
-            existingNewsArticle.AuthorId = newsArticle.AuthorId;
+            existingNewsArticle.AuthorName = newsArticle.AuthorName;
 
             _context.NewsArticles.Update(existingNewsArticle);
             _context.SaveChanges();
