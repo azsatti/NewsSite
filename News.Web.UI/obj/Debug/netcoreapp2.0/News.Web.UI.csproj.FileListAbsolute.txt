@@ -1,0 +1,10 @@
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web.UI\bin\Debug\netcoreapp2.0\News.Web.UI.deps.json
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web.UI\bin\Debug\netcoreapp2.0\News.Web.UI.runtimeconfig.json
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web.UI\bin\Debug\netcoreapp2.0\News.Web.UI.runtimeconfig.dev.json
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web.UI\bin\Debug\netcoreapp2.0\News.Web.UI.dll
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web.UI\bin\Debug\netcoreapp2.0\News.Web.UI.pdb
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web.UI\obj\Debug\netcoreapp2.0\News.Web.UI.csproj.CoreCompileInputs.cache
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web.UI\obj\Debug\netcoreapp2.0\News.Web.UI.AssemblyInfoInputs.cache
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web.UI\obj\Debug\netcoreapp2.0\News.Web.UI.AssemblyInfo.cs
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web.UI\obj\Debug\netcoreapp2.0\News.Web.UI.dll
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web.UI\obj\Debug\netcoreapp2.0\News.Web.UI.pdb

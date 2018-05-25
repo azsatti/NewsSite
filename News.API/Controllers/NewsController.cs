@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using News.DataAccess;
@@ -15,6 +16,7 @@ namespace News.API.Controllers
     /// </summary>
     [Route("api/[controller]")]
     [Produces("application/json")]
+    [EnableCors("CorsPolicy")]
     public class NewsController : Controller
     {
         private readonly IDataRepository<NewsArticle, long> _repo;

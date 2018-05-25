@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.Web", "News.Web\News.W
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.API.UnitTests", "News.API.UnitTests\News.API.UnitTests.csproj", "{D541872E-778E-4702-BDDC-9114816CD598}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.Web.UI", "News.Web.UI\News.Web.UI.csproj", "{D657F520-0CEC-48C9-A768-8626D98EDD1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D541872E-778E-4702-BDDC-9114816CD598}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D541872E-778E-4702-BDDC-9114816CD598}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D541872E-778E-4702-BDDC-9114816CD598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D657F520-0CEC-48C9-A768-8626D98EDD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D657F520-0CEC-48C9-A768-8626D98EDD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D657F520-0CEC-48C9-A768-8626D98EDD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D657F520-0CEC-48C9-A768-8626D98EDD1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
