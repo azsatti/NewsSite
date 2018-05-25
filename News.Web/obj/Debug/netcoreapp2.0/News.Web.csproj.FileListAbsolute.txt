@@ -1,0 +1,13 @@
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web\bin\Debug\netcoreapp2.0\News.Web.deps.json
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web\bin\Debug\netcoreapp2.0\News.Web.runtimeconfig.json
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web\bin\Debug\netcoreapp2.0\News.Web.runtimeconfig.dev.json
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web\bin\Debug\netcoreapp2.0\News.Web.dll
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web\bin\Debug\netcoreapp2.0\News.Web.pdb
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web\bin\Debug\netcoreapp2.0\News.Entity.dll
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web\bin\Debug\netcoreapp2.0\News.Entity.pdb
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web\obj\Debug\netcoreapp2.0\News.Web.csprojResolveAssemblyReference.cache
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web\obj\Debug\netcoreapp2.0\News.Web.csproj.CoreCompileInputs.cache
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web\obj\Debug\netcoreapp2.0\News.Web.AssemblyInfoInputs.cache
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web\obj\Debug\netcoreapp2.0\News.Web.AssemblyInfo.cs
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web\obj\Debug\netcoreapp2.0\News.Web.dll
+C:\Users\aftab.zaheer\source\repos\NewsWebsite\News.Web\obj\Debug\netcoreapp2.0\News.Web.pdb

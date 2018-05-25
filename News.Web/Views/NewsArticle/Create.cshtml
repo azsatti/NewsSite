@@ -1,13 +1,12 @@
 ﻿@model News.Entity.NewsArticle
 @{
-    ViewData["Title"] = "Create";
+    ViewData["Title"] = "Create News Article";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
-<strong>Create</strong>
+<h2>@ViewData["Title"]</h2>
 
 <form asp-action="Create">
     <div class="form-horizontal">
-        <strong>News Article</strong>
         <hr />
         <div asp-validation-summary="ModelOnly" class="text-danger"></div>
         <div class="form-group">

@@ -1,15 +1,14 @@
 ﻿@model News.Entity.NewsArticle
 
 @{
-    ViewData["Title"] = "Delete";
+    ViewData["Title"] = "Delete News Article";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<strong>Delete</strong>
+<h2>@ViewData["Title"]</h2>
 
 <strong>Are you sure you want to delete this?</strong>
 <div>
-    <strong>News Article</strong>
     <hr />
     <dl class="dl-horizontal">
         <input type="hidden" asp-for="Id" />
