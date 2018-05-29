@@ -1,8 +1,8 @@
 ﻿import Vue from 'vue'
 import VueRouter from 'vue-router'
 import App from './App.vue'
-import NewsArticleList from './components/NewsArticleList/NewsArticle.vue'
-import AddNewsArticle from './components/AddNewsArticle/AddNewsArticle.vue'
+import NewsArticleList from './components/NewsArticle/NewsArticleList.vue'
+import AddNewsArticle from './components/NewsArticle/AddNewsArticle.vue'
 
 Vue.config.productionTip = false
 Vue.use(VueRouter)

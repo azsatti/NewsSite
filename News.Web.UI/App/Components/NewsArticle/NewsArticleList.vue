@@ -1,8 +1,6 @@
 ﻿<template>
   <div id="app">
-    <h1>Check the news articles</h1>
-    <button v-on:click="fetchNewsArticle">Get Data</button>
-    <p>Status {{ info }}.</p>
+    <h1>News articles list</h1>
     <ul>
       <li v-for="newsArticle in newsArticles" v-bind:key="newsArticle.Id">
         {{ newsArticle.title }} <br/>
@@ -18,25 +16,26 @@
 <script>
   import NewsDataAPI from '../../Api/NewsAPI.js'
   import $ from 'jquery'
+
   export default {
   data () {
   return {
   newsArticles: [],
   error: null,
-  info: "Not run yet"
   }
   },
   methods: {
-  fetchNewsArticle() {
-  this.info = "Fetching"
+  getNewsArticleList() {
   NewsDataAPI
   .getData()
   .then((data) => {
   this.newsArticles = data;
-  this.info = "Done"
   });
   }
   },
+  created () {
+  this.getNewsArticleList();
+  }
   }
 </script>
 
