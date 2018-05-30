@@ -1,6 +1,0 @@
-https://github.com/rinoymjoseph/HiveStore-ASP-NET-EF-Core-Angular/tree/master/HiveStore.DataAccess
-https://www.c-sharpcorner.com/article/building-an-asp-net-core-application-with-web-api-and-code-first-development/
-
-https://marczak.io/posts/netcore-vuejs-crud/
-https://marczak.io/posts/netcore-vuejs/
-https://www.codeproject.com/Articles/1214885/Vue-Js-with-ASP-NET-Core-MVC
