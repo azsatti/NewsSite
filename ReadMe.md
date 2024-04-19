@@ -1,6 +1,6 @@
 # News Website
 ## Time spent
-    5 hours
+    3 hours
     
 ## What's done (Functional)
 - CRUD operations for news are implemented
